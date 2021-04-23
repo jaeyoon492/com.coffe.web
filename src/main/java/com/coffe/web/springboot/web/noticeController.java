@@ -26,6 +26,5 @@ public class noticeController {
 
         return "notice";
     }
-
-
+    
 }
